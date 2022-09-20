@@ -1,0 +1,35 @@
+#seccion1
+{
+    width: 30%;
+    height: 50%;
+    float: left;
+    margin: auto;
+}
+#seccion2{
+    width: 70%;
+    height: 50%;
+    float: right;
+
+}
+#izquierdo{
+    width: 33%;
+    height: 50%;
+    float: left;
+}
+#centro {
+    width: 33%;
+    height: 50%;
+    float:left;
+}
+#derecho{
+    width: 33%;
+    height: 50%;
+    float:right;
+}
+.quitarpuntos{
+    list-style: none;
+    padding-left: 0%;
+}
+li {
+    margin: 5px;
+}
